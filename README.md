@@ -15,7 +15,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B8BF5&center=true&vCenter=true&width=650&lines=BCA+%E2%80%94+AI+%26+Data+Science+%40+JECRC+University;Building+RAG+pipelines+%26+Agentic+AI+Systems;99.90%25+Accuracy+%E2%80%94+CPU-Only+Skin+Cancer+Classifier;National+Healthcare+Hackathon+%E2%80%94+Consolation+Prize;Open+to+AI%2FML+%26+Research+Internships" alt="Typing SVG" />
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ManyaS-Git&color=8B8BF5&style=flat-square&label=Profile+Views)
+
 </div>
+
 <br/>
 
 ## About Me
@@ -135,8 +139,6 @@ Pickle · PDFPlumber · Mermaid.js · Webhooks · WhatsApp Business API
 [Repository →](https://github.com/ManyaS-Git/ReportSamjho-AI-Powered-Medical-Intelligence-for-Patients)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧭 RepoPilot AI — Codebase Intelligence Platform
@@ -172,12 +174,7 @@ Analyzes 184K+ Hyperliquid trades alongside Bitcoin Fear & Greed sentiment to un
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-</td>
-</tr>  
-
-</details>
+</table>
 
 <br/>
 
