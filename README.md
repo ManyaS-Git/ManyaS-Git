@@ -14,10 +14,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B8BF5&center=true&vCenter=true&width=650&lines=BCA+%E2%80%94+AI+%26+Data+Science+%40+JECRC+University;Building+RAG+pipelines+%26+Agentic+AI+Systems;99.90%25+Accuracy+%E2%80%94+CPU-Only+Skin+Cancer+Classifier;National+Healthcare+Hackathon+%E2%80%94+Consolation+Prize;Open+to+AI%2FML+%26+Research+Internships" alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ManyaS-Git&color=8B8BF5&style=flat-square&label=Profile+Views)
-
 </div>
 
 <br/>
@@ -30,19 +26,6 @@ I'm drawn to problems where rigorous methodology meets real-world deployment con
 
 **Currently:** exploring agentic AI systems (MCP, Agent Development Kit), retrieval-augmented generation, and evaluation methods for LLM-based agents.
 **Seeking:** AI/ML Engineering, Data Science, Software Engineering, or Research Internship opportunities.
-
-<br/>
-
-## Current Focus
-
-```
-✔ Classical ML — regression, ensembles, imbalanced-data evaluation
-✔ Deep Learning — ANN architectures with TensorFlow/Keras
-✔ Retrieval-Augmented Generation (RAG) pipelines
-✔ Agentic AI — Model Context Protocol, Agent Development Kit
-✔ Zero-ETL data federation & cloud data engineering (BigQuery ↔ AlloyDB)
-✔ Full-stack AI product development (FastAPI, Next.js 15)
-```
 
 <br/>
 
@@ -68,7 +51,15 @@ I'm drawn to problems where rigorous methodology meets real-world deployment con
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
-Regression (Linear/Logistic/Polynomial/Multiple) · SMOTE · PCA · SVM · Random Forest · Gradient Boosting · HOG/LBP feature extraction · Cross-validation · AUC-ROC
+![Regression](https://img.shields.io/badge/Regression-333333?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-333333?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-333333?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-333333?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-333333?style=flat-square)
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-333333?style=flat-square)
+![HOG/LBP](https://img.shields.io/badge/HOG%2FLBP-333333?style=flat-square)
+![Cross-validation](https://img.shields.io/badge/Cross--validation-333333?style=flat-square)
+![AUC-ROC](https://img.shields.io/badge/AUC--ROC-333333?style=flat-square)
 
 </details>
 
@@ -82,7 +73,11 @@ Regression (Linear/Logistic/Polynomial/Multiple) · SMOTE · PCA · SVM · Rando
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-ANN · LangGraph · RAG pipelines · Agentic AI (MCP, Agent Development Kit) · Vercel AI SDK
+![ANN](https://img.shields.io/badge/ANN-333333?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-333333?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-333333?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </details>
 
@@ -93,7 +88,10 @@ ANN · LangGraph · RAG pipelines · Agentic AI (MCP, Agent Development Kit) · 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![AlloyDB](https://img.shields.io/badge/AlloyDB-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-Dataplex · BigQuery Knowledge Catalog · Zero-ETL Federation · Gemini Agent Evaluation API
+![Dataplex](https://img.shields.io/badge/Dataplex-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery Knowledge Catalog](https://img.shields.io/badge/BQ%20Knowledge%20Catalog-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Zero-ETL](https://img.shields.io/badge/Zero--ETL-333333?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 </details>
 
@@ -107,7 +105,8 @@ Dataplex · BigQuery Knowledge Catalog · Zero-ETL Federation · Gemini Agent Ev
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/Shadcn%2FUI-000000?style=flat-square)
 
-Uvicorn · App Router
+![Uvicorn](https://img.shields.io/badge/Uvicorn-009688?style=flat-square)
+![App Router](https://img.shields.io/badge/App%20Router-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 </details>
 
@@ -117,7 +116,11 @@ Uvicorn · App Router
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Pickle · PDFPlumber · Mermaid.js · Webhooks · WhatsApp Business API
+![Pickle](https://img.shields.io/badge/Pickle-3776AB?style=flat-square&logo=python&logoColor=white)
+![PDFPlumber](https://img.shields.io/badge/PDFPlumber-3776AB?style=flat-square)
+![Mermaid.js](https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square&logo=mermaid&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-005571?style=flat-square&logo=webhooks&logoColor=white)
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 </details>
 
@@ -234,18 +237,6 @@ Analyzes 184K+ Hyperliquid trades alongside Bitcoin Fear & Greed sentiment to un
 
 <br/>
 
-## Currently Learning
-
-```
-Agentic AI (multi-agent orchestration, tool-use evaluation)
-Retrieval-Augmented Generation — advanced retrieval strategies
-Deep Learning architectures beyond ANN
-Data Engineering & Zero-ETL cloud pipelines
-MLOps
-```
-
-<br/>
-
 ## Open Source & Collaboration
 
 Open to research collaborations, hackathon teams, and AI-focused open-source contributions — particularly around RAG systems, agentic AI, and applied healthcare ML. Active in the CampusCrew developer community (100,000+ members) and JECRC's technical/startup ecosystem.
@@ -268,44 +259,4 @@ Open to research collaborations, hackathon teams, and AI-focused open-source con
 
 <br/>
 
----
 
-<details>
-<summary><b>⚙️ Setup & Customization Instructions (click to expand)</b></summary>
-
-### 1. Folder structure
-```
-ManyaS-Git/                  ← special repo, same name as your GitHub username
-├── README.md                ← this file, goes at repo root
-└── assets/                  ← optional, for a custom banner/avatar if you replace the capsule-render banner
-    └── banner.png
-```
-To activate a profile README, create a **public repository named exactly `ManyaS-Git`** (matching your username) and place this file as `README.md` at the root.
-
-### 2. Widgets used (all free, no signup required for the defaults)
-- **Typing animation:** [readme-typing-svg](https://readme-typing-svg.demolab.com) — edit the `lines=` query param to change the rotating text.
-- **Banner:** [capsule-render](https://github.com/kyechan99/capsule-render) — change `type=`, `color=`, `text=` to restyle.
-- **Stats / top languages:** [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — swap `theme=tokyonight` for `dracula`, `nord`, `catppuccin_mocha`, etc. for a different palette.
-- **Streak stats:** [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- **Activity graph:** [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- **Trophies:** [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-- **Profile views counter:** [komarev](https://github.com/antonkomarev/github-profile-views-counter)
-- **Contribution snake:** requires a GitHub Action — see below.
-
-### 3. Enabling the contribution snake
-1. In your `ManyaS-Git` repo, add `.github/workflows/snake.yml` using the [Platane/snk](https://github.com/Platane/snk) action (copy the example workflow from that repo's README).
-2. Commit and let the Action run once — it generates `github-contribution-grid-snake-dark.svg` on an `output` branch.
-3. The `<img>` tag already in this README points to that generated file, so no further edits are needed once the Action has run.
-
-### 4. Banner / profile picture styling (optional, if you replace the default capsule-render banner)
-- **Banner prompt idea (for an AI image tool):** *"minimal dark abstract gradient background, deep navy to charcoal, subtle geometric neural-network node lines, no text, wide 1500×500 banner, premium research-lab aesthetic"*
-- **Profile picture:** simple, high-contrast headshot or minimal illustrated avatar against a solid dark background — avoid busy patterns so it stays legible at small sizes (GitHub renders it as a circle ~40–460px depending on context).
-
-### 5. Theme swaps
-Every widget above defaults to **Tokyo Night**. To switch consistently to another palette (Dracula / Nord / Catppuccin / GitHub Dark), replace `theme=tokyonight` with `theme=dracula`, `theme=nord`, or `theme=catppuccin_mocha` in **every** widget URL so they stay visually consistent.
-
-### 6. Placeholders to fill in
-- Replace every `[Repository →](#)` link with the actual GitHub repo URL once each project is pushed.
-- Confirm exact current CGPA and expected graduation year in the Education section if you add one back in (kept out of this README to stay focused on projects/research).
-
-</details>
