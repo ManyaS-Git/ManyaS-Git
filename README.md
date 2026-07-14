@@ -4,20 +4,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=Manya%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Research&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
-
-
 <a href="https://www.linkedin.com/in/manya-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:real.manya17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ManyaS-Git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B8BF5&center=true&vCenter=true&width=650&lines=BCA+%E2%80%94+AI+%26+Data+Science+%40+JECRC+University;Building+RAG+pipelines+%26+Agentic+AI+Systems;99.90%25+Accuracy+%E2%80%94+CPU-Only+Skin+Cancer+Classifier;National+Healthcare+Hackathon+%E2%80%94+Consolation+Prize;Open+to+AI%2FML+%26+Research+Internships" alt="Typing SVG" />
-
 </div>
-
-<br/>
 
 ## About Me
 
@@ -34,16 +25,10 @@ I'm drawn to problems where rigorous methodology meets real-world deployment con
 
 <div align="center">
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=ManyaS-Git&theme=tokyo-night&hide_border=true)
 ![](https://streak-stats.demolab.com/?user=ManyaS-Git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManyaS-Git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
-
-<!--
-  Contribution snake (requires the schneegans/dynamic-badges-action / platane/snk GitHub Action
-  running on this repo to generate the assets — see Setup Instructions below).
--->
-<div align="center">
 </div>
 
 <br/>
