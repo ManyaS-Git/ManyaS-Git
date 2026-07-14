@@ -215,7 +215,7 @@ Analyzes 184K+ Hyperliquid trades alongside Bitcoin Fear & Greed sentiment to un
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManyaS-Git&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ManyaS-Git&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -223,7 +223,7 @@ Analyzes 184K+ Hyperliquid trades alongside Bitcoin Fear & Greed sentiment to un
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManyaS-Git&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=ManyaS-Git&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" />
 
 </div>
 
@@ -232,7 +232,6 @@ Analyzes 184K+ Hyperliquid trades alongside Bitcoin Fear & Greed sentiment to un
   running on this repo to generate the assets — see Setup Instructions below).
 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/ManyaS-Git/ManyaS-Git/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </div>
 
 <br/>
