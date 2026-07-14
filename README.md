@@ -210,20 +210,9 @@ Analyzes 184K+ Hyperliquid trades alongside Bitcoin Fear & Greed sentiment to un
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManyaS-Git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaS-Git&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ManyaS-Git&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManyaS-Git&theme=tokyo-night&hide_border=true" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ManyaS-Git&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" />
+![](https://github-readme-stats.shion.dev/api?username=ManyaS-Git&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ManyaS-Git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManyaS-Git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
