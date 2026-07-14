@@ -6,6 +6,7 @@
 
 <br/>
 
+
 <a href="https://www.linkedin.com/in/manya-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:real.manya17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ManyaS-Git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -26,6 +27,24 @@ I'm drawn to problems where rigorous methodology meets real-world deployment con
 
 **Currently:** exploring agentic AI systems (MCP, Agent Development Kit), retrieval-augmented generation, and evaluation methods for LLM-based agents.
 **Seeking:** AI/ML Engineering, Data Science, Software Engineering, or Research Internship opportunities.
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+![](https://streak-stats.demolab.com/?user=ManyaS-Git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManyaS-Git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+<!--
+  Contribution snake (requires the schneegans/dynamic-badges-action / platane/snk GitHub Action
+  running on this repo to generate the assets — see Setup Instructions below).
+-->
+<div align="center">
+</div>
 
 <br/>
 
@@ -203,25 +222,6 @@ Analyzes 184K+ Hyperliquid trades alongside Bitcoin Fear & Greed sentiment to un
 | 🏁 | **Finalist**, Bid2Code — Innov8 Tech Fest, JECRC University (ZennY — AI Wallet) |
 | 📖 | **Published Author**, BriBooks Publications |
 | 💰 | **SPOC for founders** across two JIC Demo Days — ₹10L and ₹1.8Cr in startup funding (85+ startups combined) |
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=ManyaS-Git&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ManyaS-Git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManyaS-Git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-<!--
-  Contribution snake (requires the schneegans/dynamic-badges-action / platane/snk GitHub Action
-  running on this repo to generate the assets — see Setup Instructions below).
--->
-<div align="center">
-</div>
 
 <br/>
 
