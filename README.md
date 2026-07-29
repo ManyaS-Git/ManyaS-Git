@@ -1,9 +1,6 @@
 
 ## About Me
+AI Engineering student building production-grade systems across machine learning, LLMs, RAG, and multi-agent AI. My work combines rigorous experimentation with real-world deployment, from scalable backend services to end-to-end AI products. Recognized with 4th Prize at the National Healthcare Hackathon 2026, Global Rank #14 in Google Cloud Code Vipassana Season 15, and a merged pull request to the Microsoft Terminal repository through open-source contributions.
 
-I'm a second-year BCA student specializing in **AI & Data Science** at **JECRC University**, Jaipur, currently maintaining a CGPA of 9.2+. My work sits at the intersection of classical machine learning, deep learning, and applied GenAI — from building a CPU-only skin cancer classifier to shipping a multilingual medical RAG platform that placed at a national hackathon.
-
-I'm drawn to problems where rigorous methodology meets real-world deployment constraints — 5-fold cross-validation and confidence intervals matter to me as much as shipping a working product. Alongside my technical work, I coordinate startup operations at my university's incubation centre, where I've supported founders through demo days distributing crores in funding.
-
-**Currently:** exploring agentic AI systems (MCP, Agent Development Kit), retrieval-augmented generation, and evaluation methods for LLM-based agents.
-**Seeking:** AI/ML Engineering, Data Science, Software Engineering, or Research Internship opportunities.
+Currently: exploring Agentic AI, Model Context Protocol (MCP), Retrieval-Augmented Generation, and LLM evaluation.
+Seeking: AI/ML Engineering, Software Engineering, Data Science, and Research Internship opportunities.
